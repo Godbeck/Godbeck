@@ -20,24 +20,10 @@ I enjoy building clean, simple, and useful products — all from scratch.
 
 I mostly work with modern web technologies and like experimenting with new ideas and small projects.
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Tech Stack
 
-## Frontend
-
-React, TypeScript, Tailwind CSS
-
-Framer Motion
-
-## Backend
-
-Node.js, Express.js
-
-MongoDB
-
-Design
-
-Figma
-
+React, TypeScript, Tailwind CSS, Framer Motion
+Node.js, Express.js MongoDB, Design, Figma
 
 ## 🌱 About Me
 
