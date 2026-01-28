@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi, I’m Godbeck
 
 <!--
 **Godbeck/Godbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a software engineer based in Ghana, working across frontend and backend.
+I enjoy building clean, simple, and useful products — all from scratch.
+
+I mostly work with modern web technologies and like experimenting with new ideas and small projects.
+
+## 🛠️ Tech Stack
+
+## Frontend
+
+React, TypeScript, Tailwind CSS
+
+Framer Motion
+
+## Backend
+
+Node.js, Express.js
+
+MongoDB
+
+Design
+
+Figma
+
+
+## 🌱 About Me
+
+I like keeping things simple and easy to understand
+
+Not a coffee or tea person
+
+Into anime — Dragon Ball & Black Clover
