@@ -22,8 +22,7 @@ I mostly work with modern web technologies and like experimenting with new ideas
 
 ## 🛠️ Tools & Tech Stack
 
-React, TypeScript, Tailwind CSS, Framer Motion
-Node.js, Express.js MongoDB, Design, Figma
+React, TypeScript, Tailwind CSS, Framer Motion, Node.js, Express.js MongoDB, Design, Figma
 
 ## 🌱 About Me
 
